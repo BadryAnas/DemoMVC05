@@ -1,0 +1,56 @@
+﻿@using Company.Data
+@model DepartmentDto
+
+@{
+    ViewData["Title"] = "Create New Department";
+}
+
+@* 
+<div class="alert alert-info text-center">
+    <h4>@TempData["TempDataMessage"]</h4>
+</div> *@
+
+<div class="container mt-4">
+    <h1 class="text-center">@ViewData["Title"]</h1>
+    <br />
+
+    <form asp-action="Create" class="form-horizontal">
+        <div class="form-group">
+            <label class="col-form-label" asp-for="Code"></label>
+            <input type="text" asp-for="Code" class="form-control" placeholder="Enter department code" />
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label" asp-for="Name"></label>
+            <input type="text" asp-for="Name" class="form-control" placeholder="Enter department name" />
+        </div>
+
+        <div class="text-center">
+            <input type="submit" value="Create" class="btn btn-primary" />
+            <a asp-controller="Department" asp-action="Index" class="btn btn-light">Back To List</a>
+        </div>
+    </form>
+</div>
+
+<style>
+    .container {
+        max-width: 600px;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #dee2e6;
+        border-radius: 5px;
+        background-color: #f8f9fa;
+    }
+
+    h1 {
+        color: #343a40;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .btn {
+        margin: 0 10px;
+    }
+</style>

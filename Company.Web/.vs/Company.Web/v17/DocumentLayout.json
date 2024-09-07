@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Back-End Course\\MVC\\05\\Company.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.repository\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6BB0A3-48E1-46EE-9C2D-2434C9E77EF0}|Company.Service\\Company.Service.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.service\\services\\employee\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6BB0A3-48E1-46EE-9C2D-2434C9E77EF0}|Company.Service\\Company.Service.csproj|solutionrelative:company.service\\services\\employee\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6BB0A3-48E1-46EE-9C2D-2434C9E77EF0}|Company.Service\\Company.Service.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.service\\services\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6BB0A3-48E1-46EE-9C2D-2434C9E77EF0}|Company.Service\\Company.Service.csproj|solutionrelative:company.service\\services\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.repository\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.repository\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.repository\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.repository\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.repository\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2AD8F4-0BCA-4D8A-B114-DDF5DE39CFF4}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.web\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6BB0A3-48E1-46EE-9C2D-2434C9E77EF0}|Company.Service\\Company.Service.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.service\\helper\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6BB0A3-48E1-46EE-9C2D-2434C9E77EF0}|Company.Service\\Company.Service.csproj|solutionrelative:company.service\\helper\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6BB0A3-48E1-46EE-9C2D-2434C9E77EF0}|Company.Service\\Company.Service.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.service\\interfaces\\employee\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6BB0A3-48E1-46EE-9C2D-2434C9E77EF0}|Company.Service\\Company.Service.csproj|solutionrelative:company.service\\interfaces\\employee\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.web\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6BB0A3-48E1-46EE-9C2D-2434C9E77EF0}|Company.Service\\Company.Service.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.service\\mapping\\department\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6BB0A3-48E1-46EE-9C2D-2434C9E77EF0}|Company.Service\\Company.Service.csproj|solutionrelative:company.service\\mapping\\department\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\05\\company.web\\company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Service\\Services\\Employee\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Company.Service\\Services\\Employee\\EmployeeService.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Service\\Services\\Employee\\EmployeeService.cs",
+              "RelativeToolTip": "Company.Service\\Services\\Employee\\EmployeeService.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowFUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:14:14.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Company.Repository\\Repositories\\GenericRepository.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Company.Repository\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:02:10.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Company.Repository\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "Company.Repository\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:13:29.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Company.Repository\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Company.Repository\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:13:18.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Company.Repository\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Company.Repository\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:13:12.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Company.Repository\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Company.Repository\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:12:54.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Company.Repository\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Company.Repository\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:13:16.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Service\\Services\\Department\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Company.Service\\Services\\Department\\DepartmentService.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Service\\Services\\Department\\DepartmentService.cs",
+              "RelativeToolTip": "Company.Service\\Services\\Department\\DepartmentService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwDoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T19:19:36.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Company.Repository\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "Company.Repository\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:13:20.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Company.Repository\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Repository\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Company.Repository\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:12:59.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Company.Web\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:07:08.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DocumentSettings.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Service\\Helper\\DocumentSettings.cs",
+              "RelativeDocumentMoniker": "Company.Service\\Helper\\DocumentSettings.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Service\\Helper\\DocumentSettings.cs",
+              "RelativeToolTip": "Company.Service\\Helper\\DocumentSettings.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T05:59:36.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T05:53:19.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Service\\Interfaces\\Employee\\Dto\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Company.Service\\Interfaces\\Employee\\Dto\\EmployeeDto.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Service\\Interfaces\\Employee\\Dto\\EmployeeDto.cs",
+              "RelativeToolTip": "Company.Service\\Interfaces\\Employee\\Dto\\EmployeeDto.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwBUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T05:50:44.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T19:27:52.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Program.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\Program.cs",
+              "RelativeToolTip": "Company.Web\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T19:19:09.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentProfile.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Service\\Mapping\\Department\\DepartmentProfile.cs",
+              "RelativeDocumentMoniker": "Company.Service\\Mapping\\Department\\DepartmentProfile.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Service\\Mapping\\Department\\DepartmentProfile.cs",
+              "RelativeToolTip": "Company.Service\\Mapping\\Department\\DepartmentProfile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T19:18:15.083Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
