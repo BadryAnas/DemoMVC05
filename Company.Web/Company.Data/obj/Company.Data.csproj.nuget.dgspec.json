@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Data\\Company.Data.csproj": {}
+    "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Data\\Company.Data.csproj": {}
   },
   "projects": {
-    "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Data\\Company.Data.csproj": {
+    "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Data\\Company.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Data\\Company.Data.csproj",
+        "projectUniqueName": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Data\\Company.Data.csproj",
         "projectName": "Company.Data",
-        "projectPath": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Data\\Company.Data.csproj",
+        "projectPath": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Data\\Company.Data.csproj",
         "packagesPath": "C:\\Users\\badry.anas\\.nuget\\packages\\",
-        "outputPath": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Data\\obj\\",
+        "outputPath": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\badry.anas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"

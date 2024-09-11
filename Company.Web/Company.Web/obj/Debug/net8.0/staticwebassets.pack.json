@@ -1,252 +1,592 @@
 {
   "Files": [
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Company.Web.bundle.scp.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Company.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\Company.Web.bundle.scp.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\Files\\Images\\b0e6b34b-efe6-432d-b04b-e54add2c83eb-Screenshot 2024-07-18 001332.png",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\Files\\Images\\63aa7f86-b70c-4cd6-9d09-add2648db46b-Screenshot 2024-07-18 001332.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\63aa7f86-b70c-4cd6-9d09-add2648db46b-Screenshot 2024-07-18 001332.png"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\Files\\Images\\b0e6b34b-efe6-432d-b04b-e54add2c83eb-Screenshot 2024-07-18 001332.png",
       "PackagePath": "staticwebassets\\Files\\Images\\b0e6b34b-efe6-432d-b04b-e54add2c83eb-Screenshot 2024-07-18 001332.png"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\css\\site.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\animate\\animate.css"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\favicon.ico",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\js\\site.js",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\Back-End Course\\MVC\\05\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\select2\\select2.css"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\select2\\select2.js"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\select2\\select2.min.css"
+    },
+    {
+      "Id": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\wwwroot\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\select2\\select2.min.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Company.Web.Microsoft.AspNetCore.StaticWebAssets.props",

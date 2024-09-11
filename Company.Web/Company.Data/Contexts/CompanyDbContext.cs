@@ -1,4 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Company.Data.Entities;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,21 +11,17 @@ using System.Threading.Tasks;
 
 namespace Company.Data.Contexts
 {
-    public class CompanyDbContext : DbContext
+    public class CompanyDbContext : IdentityDbContext<ApplicationUser>
     {
+
+
         public CompanyDbContext(DbContextOptions<CompanyDbContext> options) : base(options) 
         {
             
         }
 
-        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //{
-        //    optionsBuilder.UseSqlServer();
-        //}
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
             base.OnModelCreating(modelBuilder);
         }
