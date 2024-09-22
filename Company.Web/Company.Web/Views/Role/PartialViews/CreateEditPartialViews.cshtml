@@ -1,0 +1,11 @@
+﻿@model RoleUpdateViewModel
+
+<div class="form-group">
+        <label asp-for="@Model.Name" class="col-frorm-label"></label>
+        <input asp-for="@Model.Name" class="form-control" />
+        <span asp-validation-for="@Model.Name" class="text-danger"></span>
+</div>
+
+@section script{
+    <partial name="_ValidationScriptsPartial" />
+}

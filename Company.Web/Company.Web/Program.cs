@@ -76,13 +76,13 @@ namespace Company.Web
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
-            app.UseAuthentication();
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Account}/{action=SignUp}");
+                pattern: "{controller=Home}/{action=Index}");
 
             app.Run();
         }

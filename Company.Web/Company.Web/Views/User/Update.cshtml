@@ -1,0 +1,26 @@
+﻿@model UserUpdateViewModel
+
+<div class="row">
+    <div class="col-6">
+
+        <form asp-action="Update" asp-controller="User">
+
+            <input hidden asp-for="Id"/>
+
+            <div class="form-group">
+                <label asp-for="@Model.UserName" class="col-frorm-label"></label>
+                <input asp-for="@Model.UserName" class="form-control"  />
+                <span asp-validation-for="@Model.UserName" class="text-danger"></span>
+            </div>
+
+
+
+        <input type="submit" value="Save" class="btn btn-primary" />
+        <a class="btn btn-light" asp-action="Index">Back to list</a>
+
+        </form>
+
+    </div>
+
+
+</div>

@@ -31,7 +31,7 @@ namespace Company.Web.Controllers
         {
             if(ModelState.IsValid)
             {
-                var user = new ApplicationUser
+                var role = new ApplicationUser
                 {
                     UserName = input.Email.Split('@')[0],
                     Email = input.Email,
@@ -40,7 +40,7 @@ namespace Company.Web.Controllers
                     IsActive = true
                 };
 
-                var result = await _userManager.CreateAsync(user, input.Password);
+                var result = await _userManager.CreateAsync(role, input.Password);
 
                 if(result.Succeeded)
                 {
@@ -68,13 +68,13 @@ namespace Company.Web.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = await _userManager.FindByEmailAsync(input.Email);
+                var role = await _userManager.FindByEmailAsync(input.Email);
 
-                if (user is not null)
+                if (role is not null)
                 {
-                    if (await _userManager.CheckPasswordAsync(user, input.Password)) 
+                    if (await _userManager.CheckPasswordAsync(role, input.Password)) 
                     {
-                        var result = await _signInManager.PasswordSignInAsync(user, input.Password , input.RememberMe , true );
+                        var result = await _signInManager.PasswordSignInAsync(role, input.Password , input.RememberMe , true );
                        
                         if (result.Succeeded)
                             return RedirectToAction("Index" , "Home");
@@ -104,11 +104,11 @@ namespace Company.Web.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = await _userManager.FindByEmailAsync(input.Email);
+                var role = await _userManager.FindByEmailAsync(input.Email);
 
-                if (user is not null)
+                if (role is not null)
                 {
-                    var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+                    var token = await _userManager.GeneratePasswordResetTokenAsync(role);
                 
                     var url = Url.Action("ResetPassword", "Account",new {Email = input.Email  ,Token = token } , Request.Scheme);
 
@@ -145,11 +145,11 @@ namespace Company.Web.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = await _userManager.FindByEmailAsync(input.Email);
+                var role = await _userManager.FindByEmailAsync(input.Email);
 
-                if (user is not null)
+                if (role is not null)
                 {
-                    var result = await _userManager.ResetPasswordAsync(user, input.Token , input.Password);
+                    var result = await _userManager.ResetPasswordAsync(role, input.Token , input.Password);
                    
                     if (result.Succeeded)
                         return RedirectToAction(nameof(Login));
