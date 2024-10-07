@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "E:\\Back-End Course\\MVC\\006\\Company.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\views\\role\\addorremoveusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\role\\addorremoveusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\views\\role\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\role\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\views\\account\\checkemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\checkemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,24 +59,12 @@
       "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\views\\role\\addorremoveusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\role\\addorremoveusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\views\\role\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\role\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBEF896D-C3B3-4935-BBEC-4CA78B7E4273}|Company.Web\\Company.Web.csproj|e:\\back-end course\\mvc\\006\\company.web\\company.web\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -130,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,7 +162,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "CheckEmail.cshtml",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Account\\CheckEmail.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\CheckEmail.cshtml",
+              "ToolTip": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Account\\CheckEmail.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\CheckEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:03:08.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "Company.Web\\Controllers\\DepartmentController.cs",
@@ -150,12 +183,11 @@
               "RelativeToolTip": "Company.Web\\Controllers\\DepartmentController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T16:00:12.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T16:00:12.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Company.Web\\Controllers\\HomeController.cs",
@@ -163,25 +195,111 @@
               "RelativeToolTip": "Company.Web\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T21:45:17.856Z",
+              "WhenOpened": "2024-09-22T21:45:17.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Company.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAADwv6AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T15:21:48.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "RoleController.cs",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Controllers\\RoleController.cs",
               "RelativeDocumentMoniker": "Company.Web\\Controllers\\RoleController.cs",
               "ToolTip": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Controllers\\RoleController.cs",
               "RelativeToolTip": "Company.Web\\Controllers\\RoleController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAIwNYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T18:22:17.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Role\\Update.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Role\\Update.cshtml",
+              "ToolTip": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Role\\Update.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Role\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T19:20:13.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddOrRemoveUsers.cshtml",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Role\\AddOrRemoveUsers.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Role\\AddOrRemoveUsers.cshtml",
+              "ToolTip": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Role\\AddOrRemoveUsers.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Role\\AddOrRemoveUsers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T20:37:21.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ForgetPassword.cshtml",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\ForgetPassword.cshtml",
+              "ToolTip": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\ForgetPassword.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:03:10.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAwwJYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:04:30.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAwwFIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:05:15.181Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAwwHwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:06:00.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "UserController.cs",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Company.Web\\Controllers\\UserController.cs",
@@ -189,12 +307,11 @@
               "RelativeToolTip": "Company.Web\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T15:20:20.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T15:20:20.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Program.cs",
               "RelativeDocumentMoniker": "Company.Web\\Program.cs",
@@ -202,38 +319,23 @@
               "RelativeToolTip": "Company.Web\\Program.cs",
               "ViewState": "AQIAAEsAAAAAAAAAAAAAAE4AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T16:28:41.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T16:28:41.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Company.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAAYAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T16:29:40.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T16:29:40.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Company.Web\\Controllers\\AccountController.cs",
-              "ToolTip": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Company.Web\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAIoAAAAAAAAAAADwv48AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T15:21:48.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Company.Web\\Controllers\\EmployeeController.cs",
@@ -241,12 +343,11 @@
               "RelativeToolTip": "Company.Web\\Controllers\\EmployeeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T16:32:52.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T16:32:52.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Role\\Index.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Role\\Index.cshtml",
@@ -254,25 +355,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Role\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T18:24:44.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T18:24:44.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Role\\Update.cshtml",
-              "RelativeDocumentMoniker": "Company.Web\\Views\\Role\\Update.cshtml",
-              "ToolTip": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Role\\Update.cshtml",
-              "RelativeToolTip": "Company.Web\\Views\\Role\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T19:20:13.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Error.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Shared\\Error.cshtml",
@@ -280,25 +367,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T20:58:25.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T20:58:25.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddOrRemoveUsers.cshtml",
-              "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Role\\AddOrRemoveUsers.cshtml",
-              "RelativeDocumentMoniker": "Company.Web\\Views\\Role\\AddOrRemoveUsers.cshtml",
-              "ToolTip": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Role\\AddOrRemoveUsers.cshtml",
-              "RelativeToolTip": "Company.Web\\Views\\Role\\AddOrRemoveUsers.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T20:37:21.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Role\\Create.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Role\\Create.cshtml",
@@ -306,12 +379,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Role\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T18:35:58.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T18:35:58.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\_ViewImports.cshtml",
@@ -319,12 +391,11 @@
               "RelativeToolTip": "Company.Web\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T15:38:57.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T15:38:57.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "_ActionButtonPartialView.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Shared\\_ActionButtonPartialView.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Shared\\_ActionButtonPartialView.cshtml",
@@ -332,12 +403,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Shared\\_ActionButtonPartialView.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T20:58:30.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T20:58:30.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "_AuthLayout.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Shared\\_AuthLayout.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Shared\\_AuthLayout.cshtml",
@@ -345,12 +415,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Shared\\_AuthLayout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T20:58:32.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T20:58:32.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Details.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Role\\Details.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Role\\Details.cshtml",
@@ -358,12 +427,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Role\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T19:16:19.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T19:16:19.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "CreateEditPartialViews.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Role\\PartialViews\\CreateEditPartialViews.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Role\\PartialViews\\CreateEditPartialViews.cshtml",
@@ -371,12 +439,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Role\\PartialViews\\CreateEditPartialViews.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T18:38:20.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T18:38:20.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "DetailsUpdatePartialViews.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Role\\PartialViews\\DetailsUpdatePartialViews.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Role\\PartialViews\\DetailsUpdatePartialViews.cshtml",
@@ -384,12 +451,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Role\\PartialViews\\DetailsUpdatePartialViews.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T18:52:49.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T18:52:49.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "RoleUpdateViewModel.cs",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Models\\RoleUpdateViewModel.cs",
               "RelativeDocumentMoniker": "Company.Web\\Models\\RoleUpdateViewModel.cs",
@@ -397,12 +463,11 @@
               "RelativeToolTip": "Company.Web\\Models\\RoleUpdateViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T19:13:26.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T19:13:26.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "UserInRoleViewModel.cs",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Models\\UserInRoleViewModel.cs",
               "RelativeDocumentMoniker": "Company.Web\\Models\\UserInRoleViewModel.cs",
@@ -410,12 +475,11 @@
               "RelativeToolTip": "Company.Web\\Models\\UserInRoleViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T20:23:09.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T20:23:09.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Update.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\User\\Update.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\User\\Update.cshtml",
@@ -423,12 +487,11 @@
               "RelativeToolTip": "Company.Web\\Views\\User\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T16:43:58.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T16:43:58.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Details.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\User\\Details.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\User\\Details.cshtml",
@@ -436,12 +499,11 @@
               "RelativeToolTip": "Company.Web\\Views\\User\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T16:02:08.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T16:02:08.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\User\\Index.cshtml",
@@ -449,12 +511,11 @@
               "RelativeToolTip": "Company.Web\\Views\\User\\Index.cshtml",
               "ViewState": "AQIAADMAAAAAAAAAAAAQwEkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T15:42:22.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T15:42:22.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\_ViewStart.cshtml",
@@ -462,12 +523,11 @@
               "RelativeToolTip": "Company.Web\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T15:39:01.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T15:39:01.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Employee\\Create.cshtml",
@@ -475,12 +535,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Employee\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T15:45:26.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T15:45:26.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "UserUpdateViewModel.cs",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Models\\UserUpdateViewModel.cs",
               "RelativeDocumentMoniker": "Company.Web\\Models\\UserUpdateViewModel.cs",
@@ -488,12 +547,11 @@
               "RelativeToolTip": "Company.Web\\Models\\UserUpdateViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T16:57:03.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T16:57:03.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "Details.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Employee\\Details.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Employee\\Details.cshtml",
@@ -501,12 +559,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Employee\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T15:45:23.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T15:45:23.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Employee\\Index.cshtml",
@@ -514,12 +571,11 @@
               "RelativeToolTip": "Company.Web\\Views\\Employee\\Index.cshtml",
               "ViewState": "AQIAADQAAAAAAAAAAAAwwE4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T15:36:16.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T15:36:16.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "Update.cshtml",
               "DocumentMoniker": "E:\\Back-End Course\\MVC\\006\\Company.Web\\Company.Web\\Views\\Employee\\Update.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Employee\\Update.cshtml",
@@ -527,8 +583,7 @@
               "RelativeToolTip": "Company.Web\\Views\\Employee\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T15:45:29.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T15:45:29.811Z"
             }
           ]
         }

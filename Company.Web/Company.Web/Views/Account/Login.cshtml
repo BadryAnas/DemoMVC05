@@ -3,7 +3,7 @@
     ViewData["Title"] = "Login";
     Layout = "~/Views/Shared/_AuthLayout.cshtml";
 }
-
+@* 
 <h1>Login</h1>
 
 
@@ -29,4 +29,123 @@
 </form>
 
 <p class="text-black">don't you have an account  <a asp-action="SignUp">SignUp now!</a> </p>
-<p class ="text-black"><a asp-action="ForgetPassword">Forget Password !</a></p>
+<p class ="text-black"><a asp-action="ForgetPassword">Forget Password !</a></p> *@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        form {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            width: 300px;
+        }
+
+        input[type="email"],
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        input[type="submit"] {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+            font-size: 16px;
+        }
+
+            input[type="submit"]:hover {
+                background-color: #0056b3;
+            }
+
+        .wthree-text {
+            margin: 10px 0;
+        }
+
+        label {
+            display: flex;
+            align-items: center;
+        }
+
+        input[type="checkbox"] {
+            margin-right: 10px;
+        }
+
+        .text-black {
+            color: #333;
+            text-align: center;
+            margin-top: 10px;
+        }
+
+            .text-black a {
+                color: #007BFF;
+                text-decoration: none;
+            }
+
+                .text-black a:hover {
+                    text-decoration: underline;
+                }
+
+        span {
+            color: red;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Login</h1>
+
+    <form asp-action="Login" method="post">
+        <div asp-validation-summary="All"></div>
+
+        <input type="email" asp-for="Email" placeholder="Email" class="form-control" />
+        <div asp-validation-for="Email"></div>
+
+        <input type="password" asp-for="Password" placeholder="Password" class="form-control" />
+        <div asp-validation-for="Password"></div>
+
+        <div class="wthree-text">
+            <label class="anim">
+                <input asp-for="RememberMe" type="checkbox" />
+                <span>Keep Me Sign In</span>
+            </label>
+        </div>
+
+        <input type="submit" value="Login" class="btn btn-primary" />
+    </form>
+
+    <p class="text-black">Don't you have an account? <a asp-action="SignUp">Sign up now!</a></p>
+    <p class="text-black"><a asp-action="ForgetPassword">Forget Password!</a></p>
+
+</body>
+</html>
